@@ -2,8 +2,6 @@
 
 int main(void)
 {	
-	printf("Hello World!");
+	// Code Changes Tracking Test
 	return 0;
-
-	// OIPA-1
 }
